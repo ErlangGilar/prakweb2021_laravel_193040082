@@ -15,7 +15,7 @@ class Post
         [
             "title" => "Judul Post Kedua",
             "slug" => "judul-post-kedua",
-            "author" => "Liam",
+            "author" => "Asep",
             "body" => "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias non repellat laudantium, aspernatur at unde quam vitae voluptatem. Maxime consectetur perspiciatis quis corrupti illum. Nulla maxime deserunt ut, quasi explicabo natus modi atque expedita inventore ab quis in quo ipsa numquam. Repudiandae, fugit. Veritatis, quia dolorem ducimus fuga perspiciatis deserunt doloremque debitis quas modi, laboriosam deleniti atque beatae ipsam earum optio suscipit amet, asperiores tempore nesciunt! Facilis minima totam repellendus iste ad ducimus accusantium earum doloribus sint, dolor, asperiores necessitatibus ut rem illum nisi ipsum inventore id, delectus architecto provident aliquid vel non. Numquam, itaque perferendis saepe et ratione temporibus?"
     
         ],
