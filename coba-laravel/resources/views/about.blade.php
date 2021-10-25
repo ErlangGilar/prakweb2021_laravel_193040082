@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-@extends('layouts.main')
+@extends('layouts/main')
 
 @section('container')
     <h1>Halaman About</h1>
